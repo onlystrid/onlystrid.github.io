@@ -5,10 +5,8 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
-    background-image: url("https://i.pinimg.com/originals/c8/4f/04/c84f0405eb47c39edbecfb96a57a825f.gif");
-    background-size:cover;
-    background-repeat: no-repeat;
-    color: #fff;
+    background-color: #101214;
+    color: #7A7C80
 }
 
 h2,.white{
@@ -16,7 +14,7 @@ h2,.white{
 }
 
 a{
-    color: #fff;
+    color: #7A7C80;
     text-decoration: none;
 }
 /* section 1 */
@@ -45,7 +43,7 @@ a{
 }
 
 .section-1 a:hover{
-    color: rgb(99, 99, 99);
+    color: #fff;
     cursor: pointer;
     transition: 0.3s;
 }
